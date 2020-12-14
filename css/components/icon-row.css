@@ -3,7 +3,7 @@
     transform: none;
   }
   50% {
-    color: tomato;
+    color: var(--yellow);
     transform: translateY(-5px) rotateY(360deg);
   }
   100% {
